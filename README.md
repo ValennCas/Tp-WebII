@@ -1,4 +1,5 @@
 # TPWeb2
+Se aclara que es un TP donde el enfoque era el desarrollo del back end, no el front end, por eso hay estilos muy básicos donde no se tuvo encuenta la tipografia, estudio del color, etc.
 Explicación de endpoints
 
     api/Clothing, 'GET'= Este endpoint usando el metodo GET trae todos los elementos de las tablas de la base de datos.
